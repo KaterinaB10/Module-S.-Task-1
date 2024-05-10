@@ -90,6 +90,10 @@ class Program{
         double hours = totalTime / 60.0;
         double minutes = totalTime % 60;
         Console.WriteLine("It will take " + hours + " hours to take to your location.");
+
+        Console.WriteLine("-----------------------------------------------");
+        Population population = new Population();
+        // Console.WriteLine("Population in " + population.CalculatePopulationInFuture.yearsQuantity + "can be " + population.CalculatePopulationInFuture());
         
         }
     static double AddNumbers(double a, double b)

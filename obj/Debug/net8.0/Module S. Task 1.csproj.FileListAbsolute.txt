@@ -12,3 +12,4 @@ C:\Users\kateb\OneDrive\Документы\c#\Module S. Task 1\obj\Debug\net8.0\
 C:\Users\kateb\OneDrive\Документы\c#\Module S. Task 1\obj\Debug\net8.0\Module S. Task 1.pdb
 C:\Users\kateb\OneDrive\Документы\c#\Module S. Task 1\obj\Debug\net8.0\Module S. Task 1.genruntimeconfig.cache
 C:\Users\kateb\OneDrive\Документы\c#\Module S. Task 1\obj\Debug\net8.0\ref\Module S. Task 1.dll
+C:\Users\kateb\OneDrive\Документы\c#\Module S. Task 1\obj\Debug\net8.0\Module S. Task 1.sourcelink.json
